@@ -26,6 +26,6 @@ COVID Tracker is a web application that provides real-time statistics on COVID-1
 3. Open index.html in your web browser.
 
 ## Usage
-Upon loading the application, you will see the overall COVID-19 statistics at the top.
-Below the statistics, you can search for specific countries using the search bar.
-The table will display detailed COVID-19 information for each country.
+- Upon loading the application, you will see the overall COVID-19 statistics at the top.
+- Below the statistics, you can search for specific countries using the search bar.
+- The table will display detailed COVID-19 information for each country.

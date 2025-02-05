@@ -19,10 +19,10 @@ COVID Tracker is a web application that provides real-time statistics on COVID-1
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid-tracker.git
+   git clone https://github.com/Siyamthanda-code/CovidTracker.git
 2. Navigate to the project directory.
    ```bash
-   cd covid-tracker
+   cd CovidTracker
 3. Open index.html in your web browser.
 
 ## Usage
